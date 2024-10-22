@@ -40,9 +40,9 @@ expo start
 
 Check out the demonstration videos to see ChatGPT Assistant in action:
 
-![0519](https://github.com/micheal081/ChatGPT-Assistant/assets/81239267/0f9716b3-2a42-4dba-b5dc-d65faa837487)
+![0519](https://github-production-user-asset-6210df.s3.amazonaws.com/81239267/331870918-0f9716b3-2a42-4dba-b5dc-d65faa837487.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241022%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241022T091649Z&X-Amz-Expires=300&X-Amz-Signature=bf551d2e34353eec3ee1e75da6d7a5d635a8d516cd7878c72c600ad0b79d2130&X-Amz-SignedHeaders=host)
 
-![0519 (1)(1)](https://github.com/micheal081/ChatGPT-Assistant/assets/81239267/5d1094a0-9367-4772-b520-a8841b0f412a)
+![0519 (1)(1)](https://github-production-user-asset-6210df.s3.amazonaws.com/81239267/331870933-5d1094a0-9367-4772-b520-a8841b0f412a.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241022%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241022T091751Z&X-Amz-Expires=300&X-Amz-Signature=c0e0419346772c387bca88c804081bd491f5b15c16aa4020264201b2e04be53d&X-Amz-SignedHeaders=host)
 
 ## Contributing
 
